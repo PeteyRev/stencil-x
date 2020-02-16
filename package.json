@@ -1,0 +1,20 @@
+{
+  "name": "stencilx-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "stencilx": "bin/stencilx.js"
+  },
+  "keywords": [],
+  "author": "",
+  "preferGlobal": true,
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cli-progress": "^3.6.0",
+    "inquirer": "^7.0.4",
+    "install": "^0.13.0",
+    "minimist": "^1.2.0",
+    "unzipper": "^0.10.8"
+  }
+}

@@ -1,14 +1,22 @@
 {
   "name": "stencilx-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A support library for Bigcommerce Stencil CLI",
+  "license": "MIT",
+  "homepage": "https://github.com/PeteyRev/stencil-x#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteyRev/stencil-x.git"
+  },
   "bin": {
     "stencilx": "bin/stencilx.js"
+  },
+  "engines": {
+    "node": ">=8"
   },
   "keywords": [],
   "author": "",
   "preferGlobal": true,
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
     "cli-progress": "^3.6.0",

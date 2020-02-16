@@ -5,7 +5,7 @@ Support commands for the Stencil CLI
 ## Getting Started
 
 ```
-npm install -g stencilx
+npm install -g stencilx-cli
 ```
 
 ### Use
